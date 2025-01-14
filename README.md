@@ -62,12 +62,15 @@ Insira perguntas no campo de entrada.
 Respostas são exibidas com formatação amigável.
 
 ### 📦 Estrutura do Projeto
+
+````
 chat-pygpt/
 ├── db/                       # Diretório para o armazenamento vetorial
 ├── main.py                   # Arquivo principal da aplicação Streamlit
 ├── requirements.txt          # Dependências do projeto
 ├── .env                      # Variáveis de ambiente (não incluído no repositório)
 ├── README.md                 # Documentação do projeto
+````
 
 ### 📝 Licença
 
