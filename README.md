@@ -35,7 +35,7 @@ Uma aplicação de chatbot baseada em GPT que utiliza **LangChain** para realiza
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/Odisley37/Chat-pyGPT.git
+   git clone https://github.com/Odisley37/chatbot.git
    cd chat-pygpt
 ### 🎮 Como Usar
 1. Inicie a aplicação Streamlit:
